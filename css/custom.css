@@ -585,8 +585,7 @@ a:active:focus {
 .header .slide li {
     width: 100%;
     height: 800px;
-    /* background: url(../img/i_s01.jpg) center no-repeat; */
-    background: url('https://i.imgur.com/KAfQuZ7.jpg') center no-repeat;
+    background: url(../img/i_s01.jpg) center no-repeat;
     background-size: cover;
     justify-content: center;
     align-items: center;
@@ -598,8 +597,7 @@ a:active:focus {
 }
 
 .header .slide li:nth-child(2) {
-    /* background: url(../img/i_s02.jpg) center no-repeat; */
-    background: url('https://i.imgur.com/wRMa4O1.jpg') center no-repeat;
+    background: url(../img/i_s02.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -760,8 +758,7 @@ a:active:focus {
 }
 
 .about2 {
-    /* background: url('../img/i_a_b01.jpg') center no-repeat; */
-    background: url('https://i.imgur.com/8F9vMUs.jpg') center no-repeat;
+    background: url('../img/i_a_b01.jpg') center no-repeat;
     background-size: cover;
 }
 
@@ -913,8 +910,7 @@ a:active:focus {
 /*team------------------------------------------------------------------------*/
 
 .team {
-    /* background: url('../img/i_t_b01.png') no-repeat center, #111; */
-    background: url('https://i.imgur.com/zUbwHTq.png') no-repeat center, #111;
+    background: url('../img/i_t_b01.png') no-repeat center, #111;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -964,64 +960,54 @@ a:active:focus {
 .team .slide .img {
     width: 160px;
     height: 160px;
-    /* background: url('../img/i_t01.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/dwa7hNO.jpg') no-repeat center;
+    background: url('../img/i_t01.jpg') no-repeat center;
     background-size: cover;
     border-radius: 50%;
     margin: auto;
 }
 
 .team .slide li:nth-child(2) .img {
-    /* background: url('../img/i_t02.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/j5GIIXg.jpg') no-repeat center;
+    background: url('../img/i_t02.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(3) .img {
-    /* background: url('../img/i_t03.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/rkcIPwp.jpg') no-repeat center;
+    background: url('../img/i_t03.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(4) .img {
-    /* background: url('../img/i_t04.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/I0viwI2.jpg') no-repeat center;
+    background: url('../img/i_t04.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(5) .img {
-    /* background: url('../img/i_t05.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/LpZBg3l.jpg') no-repeat center;
+    background: url('../img/i_t05.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(6) .img {
-    /* background: url('../img/i_t06.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/JbI5Hik.jpg') no-repeat center;
+    background: url('../img/i_t06.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(7) .img {
-    /* background: url('../img/i_t07.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/n9q8n0w.jpg') no-repeat center;
+    background: url('../img/i_t07.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(8) .img {
-    /* background: url('../img/i_t09.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/yJ97604.jpg') no-repeat center;
+    background: url('../img/i_t09.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(9) .img {
-    /* background: url('../img/i_t09.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/yJ97604.jpg') no-repeat center;
+    background: url('../img/i_t09.jpg') no-repeat center;
     background-size: cover;
 }
 
 .team .slide li:nth-child(10) .img {
-    /* background: url('../img/i_t10.jpg') no-repeat center; */
-    background: url('https://i.imgur.com/oLZg4Qe.jpg') no-repeat center;
+    background: url('../img/i_t10.jpg') no-repeat center;
     background-size: cover;
 }
 
